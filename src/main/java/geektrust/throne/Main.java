@@ -1,6 +1,6 @@
-package geektrust.family.crown;
+package geektrust.throne;
 
-import geektrust.family.crown.api.FileCommandProcessor;
+import geektrust.throne.api.FileCommandProcessor;
 
 import java.io.IOException;
 

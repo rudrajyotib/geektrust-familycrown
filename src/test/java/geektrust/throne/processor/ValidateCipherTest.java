@@ -1,6 +1,5 @@
-package geektrust.family.crown.processor;
+package geektrust.throne.processor;
 
-import geektrust.family.crown.processor.ValidateCipher;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package geektrust.family.crown;
+package geektrust.throne;
 
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;

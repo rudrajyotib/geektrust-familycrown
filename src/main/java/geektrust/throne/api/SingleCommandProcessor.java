@@ -1,9 +1,8 @@
-package geektrust.family.crown.api;
+package geektrust.throne.api;
 
-import geektrust.family.crown.processor.ValidateCipher;
+import geektrust.throne.processor.ValidateCipher;
 
 import java.util.Arrays;
-import java.util.function.Predicate;
 
 public class SingleCommandProcessor {
     public static String validate(String messageLine) {

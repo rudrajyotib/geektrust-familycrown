@@ -1,4 +1,4 @@
-package geektrust.family.crown.api;
+package geektrust.throne.api;
 
 import java.io.File;
 import java.io.IOException;
