@@ -39,9 +39,9 @@
                     <appendAssemblyId>false</appendAssemblyId>
                     <archive>
                         <manifest>
-                            <addClasspath>true</addClasspath>
+                            <addClasspath>true</addClasspath>`
                             <!-- This is the main class of your program which will be executed-->
-                            <mainClass>geektrust.makespace.Main</mainClass>
+                            <mainClass>geektrust.family.crown.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
